@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Zabdeldjallil
 - 👀 I’m interested in JavaScript and it's ecosystem
-- 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to work on your projects
 - 📫 How to reach me:
       Email:djillou500@gmail.com
